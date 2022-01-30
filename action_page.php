@@ -1,5 +1,3 @@
-<?php
-echo 'Hello ' . htmlspecialchars($_POST["fname"]) . '!';
-?>
+<?php print_r($_POST); ?>
 
 
